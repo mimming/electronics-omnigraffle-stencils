@@ -9,7 +9,7 @@ Here are the [OmniGraffle](https://www.omnigroup.com/omnigraffle) stencils that 
 
 Here's a simple example of a diagram that's pretty easy to make with these stencils.
 
-<img src="https://github.com/mimming/electronics-omnigraffle-stencils/raw/master/example.png" style="width: 250px;">
+<img src="https://github.com/mimming/electronics-omnigraffle-stencils/raw/master/example.png" style="max-width: 75%;">
 
 ## Installation
 
